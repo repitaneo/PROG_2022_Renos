@@ -2,6 +2,8 @@ package robots;
 
 public class Robot {
 	
+	
+	// atributos
 	private String nombre;
 	protected int ataque;
 	protected int defensa;
